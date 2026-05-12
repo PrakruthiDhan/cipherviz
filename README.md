@@ -1,6 +1,6 @@
 # CipherViz — Interactive Cryptography & Cipher Attack Visualizer
 
-A web-based educational tool that visualizes classical cryptographic techniques — Caesar Cipher and Vigenère Cipher — along with the methods used to break them.
+A web-based educational tool that visualizes classical cryptographic techniques — Caesar Cipher and Vigenère Cipher along with the methods used to break them.
 
 ## Features
 - Encrypt & Decrypt messages using Caesar and Vigenère ciphers
